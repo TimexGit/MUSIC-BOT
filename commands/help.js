@@ -57,20 +57,15 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://cdn.discordapp.com/attachments/1150827819547504741/1168917372267151370/standard.gif?ex=65538222&is=65410d22&hm=b4994392f44679da41fc9304eb69deaa3769e136057556deec0db69ae8d33a97&')
+       .setImage('https://cdn.discordapp.com/attachments/1120966276978839574/1216994111417090059/standard.gif?ex=66026916&is=65eff416&hm=435dc7e5c1dff9260d76b93f8f8f3d2c1b004c9e56b16bd7f75114b632491d60&')
       const button1 = new ButtonBuilder()
-        .setLabel('YouTube')
-        .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+        .setLabel('TikTok')
+        .setURL('https://www.tiktok.com/@tehtehair')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
         .setLabel('Discord')
-        .setURL('https://discord.gg/FUEHs7RCqz')
-        .setStyle(ButtonStyle.Link);
-
-      const button3 = new ButtonBuilder()
-        .setLabel('Code')
-        .setURL('https://github.com/RTX-GAMINGG/RTX-MUSIC-BOT-v3.6')
+        .setURL('https://discord.gg/5ste3zckwV')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
